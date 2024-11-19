@@ -37,10 +37,10 @@ body {
 
 .container .tenor-gif-embed {
     display: flex;
-    max-width: 500px;
-    border-radius: 500px; 
-    width: 400px;
-    height: 200px;
+    max-width: 220px;
+    border-radius: 200px; 
+    width: 670px;
+    height: 400px;
     background-color: #ffffff;
     
 }
