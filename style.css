@@ -7,7 +7,7 @@
 
 h1{
     font-family: 'Time New Roman';
-      font-size: 2.5em;
+      font-size: 2.2em;
       color: #1a1052;
       text-align: center;
       margin-top: 10px;
@@ -38,8 +38,8 @@ body {
 .container .tenor-gif-embed {
     display: flex;
     max-width: 220px;
-    border-radius: 200px; 
-    width: 671px;
+    border-radius: 100px; 
+    width: 800px;
     height: 400px;
     background-color: #ffffff;
     
